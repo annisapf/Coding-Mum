@@ -1,0 +1,25 @@
+body, html {
+    height: 100%;
+    font-family: "Avenir Next";
+  }
+  
+  
+header {
+    background-color: #FF69B4;
+    color: #fff;
+    height: 90px;
+  }
+
+  
+li {
+    float: left;
+    padding: 33px 20px;
+  }
+  
+
+  footer {
+    background-color:#FF1493;
+    color: #fff;
+    padding: 40px;
+  }
+  
